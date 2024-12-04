@@ -28,4 +28,8 @@ Solving LeetCode Problems.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shinewailu10/leetCode/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/shinewailu10/leetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
