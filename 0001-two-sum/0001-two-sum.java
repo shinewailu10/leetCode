@@ -7,6 +7,7 @@ class Solution {
                 if (nums[i] + nums[j] == target){
                     result.add(i);
                     result.add(j);
+                    break;
                 }
             }
         }
