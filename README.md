@@ -7,6 +7,7 @@ Solving LeetCode Problems.
 | ------- |
 | [0001-two-sum](https://github.com/shinewailu10/leetCode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/shinewailu10/leetCode/tree/master/0078-subsets) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shinewailu10/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shinewailu10/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ Solving LeetCode Problems.
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shinewailu10/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shinewailu10/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Backtracking
 |  |
