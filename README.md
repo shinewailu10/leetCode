@@ -9,10 +9,12 @@ Solving LeetCode Problems.
 | [0078-subsets](https://github.com/shinewailu10/leetCode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shinewailu10/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shinewailu10/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shinewailu10/leetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shinewailu10/leetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/shinewailu10/leetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +24,7 @@ Solving LeetCode Problems.
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shinewailu10/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shinewailu10/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shinewailu10/leetCode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -30,8 +33,14 @@ Solving LeetCode Problems.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shinewailu10/leetCode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/shinewailu10/leetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/shinewailu10/leetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/shinewailu10/leetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shinewailu10/leetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
