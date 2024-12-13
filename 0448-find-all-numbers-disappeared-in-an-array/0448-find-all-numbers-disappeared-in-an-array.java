@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
+       HashSet<Integer> set = new HashSet<>();
         for (int val : nums) {
             set.add(val);
         }
