@@ -5,7 +5,7 @@ class Solution {
         for(int num:nums){
             array1[num]=true;
         }
-        ArrayList<Integer> list = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
         for (int i = 1; i <= nums.length; i++) {
             if (!array1[i]) {
                 list.add(i);
